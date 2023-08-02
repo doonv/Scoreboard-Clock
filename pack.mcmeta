@@ -1,0 +1,15 @@
+{
+	"pack": {
+		"pack_format": 16,
+		"description": [
+			{
+				"text": "Scoreboard Clock by Doonv "
+			},
+			{
+				"text": "(For 23w31a only!)",
+				"color": "red",
+				"bold": true
+			}
+		]
+	}
+}
